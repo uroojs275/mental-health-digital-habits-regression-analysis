@@ -13,4 +13,4 @@ Analyze how digital habits relate to self-reported happiness using regression mo
 Python, pandas, numpy, matplotlib/seaborn, scikit-learn
 
 ## Files
-mental_health_digital_habits_regression.ipynb — notebook with full analysis
+mental_health_digital_habits_regression.ipynb (notebook with full analysis)
